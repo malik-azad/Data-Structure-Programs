@@ -106,8 +106,8 @@ int main()
 
     list1.traverse();
 
-     list1.insert(40);
-      list1.insert(30);
+    list1.insert(40);
+    list1.insert(30);
 
     list1.traverse();
 
